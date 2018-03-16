@@ -1,0 +1,10 @@
+<servers>
+    <server>
+        <id>docker-hub</id>
+        <username>foo</username>
+        <password>secret-password</password>
+        <configuration>
+            <email>you@somewhere.com</email>
+        </configuration>
+    </server>
+</servers>
